@@ -1,7 +1,6 @@
 # GoLang 101: Getting Started with Go
 
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m3vue79x3c6ehs9agrbg.png
-" alt="banner"/>
+<img src="./thumb.png" alt="banner"/>
 
 
 If you’re curious about learning a new programming language, Go is definitely one to consider. Whether you’re a complete beginner or an experienced developer exploring new tools, Go offers a refreshing combination of speed, simplicity, and power.
